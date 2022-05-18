@@ -1,0 +1,13 @@
+C:\Users\Matt\source\repos\EncryptAnything\EncryptAnything\obj\Debug\EncryptAnything.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\EncryptAnything\EncryptAnything\obj\Debug\EncryptAnything.Form1.resources
+C:\Users\Matt\source\repos\EncryptAnything\EncryptAnything\obj\Debug\EncryptAnything.Properties.Resources.resources
+C:\Users\Matt\source\repos\EncryptAnything\EncryptAnything\obj\Debug\EncryptAnything.csproj.GenerateResource.cache
+C:\Users\Matt\source\repos\EncryptAnything\EncryptAnything\bin\Debug\EncryptAnything.exe.config
+C:\Users\Matt\source\repos\EncryptAnything\EncryptAnything\bin\Debug\EncryptAnything.exe
+C:\Users\Matt\source\repos\EncryptAnything\EncryptAnything\bin\Debug\EncryptAnything.pdb
+C:\Users\Matt\source\repos\EncryptAnything\EncryptAnything\obj\Debug\EncryptAnything.exe
+C:\Users\Matt\source\repos\EncryptAnything\EncryptAnything\obj\Debug\EncryptAnything.pdb
+C:\Users\Matt\source\repos\EncryptAnything\EncryptAnything\bin\Debug\EncryptAnything.exe.manifest
+C:\Users\Matt\source\repos\EncryptAnything\EncryptAnything\bin\Debug\EncryptAnything.application
+C:\Users\Matt\source\repos\EncryptAnything\EncryptAnything\obj\Debug\EncryptAnything.exe.manifest
+C:\Users\Matt\source\repos\EncryptAnything\EncryptAnything\obj\Debug\EncryptAnything.application

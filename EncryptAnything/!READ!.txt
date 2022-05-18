@@ -1,0 +1,9 @@
+This was a test project to see what I could
+accomplish with AES256 encrypting on strings
+and text files. The encrypting parts are copied
+are pasted.
+
+Knowing how to utilize AES256 encrypting, it has
+allowed me to use it on multiple occasions in
+different projects, giving the user a peace of
+mind knowing their data is secure.
